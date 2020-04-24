@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\GCcontrollerShop.fsproj": {}
+  },
+  "projects": {
+    "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\GCcontrollerShop.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\GCcontrollerShop.fsproj",
+        "projectName": "GCcontrollerShop",
+        "projectPath": "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\GCcontrollerShop.fsproj",
+        "packagesPath": "C:\\Users\\Joost\\.nuget\\packages\\",
+        "outputPath": "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
