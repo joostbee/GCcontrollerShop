@@ -1,0 +1,13 @@
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\bin\Debug\netcoreapp3.1\Logic.exe
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\bin\Debug\netcoreapp3.1\Logic.deps.json
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\bin\Debug\netcoreapp3.1\Logic.runtimeconfig.json
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\bin\Debug\netcoreapp3.1\Logic.runtimeconfig.dev.json
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\bin\Debug\netcoreapp3.1\Logic.dll
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\bin\Debug\netcoreapp3.1\Logic.pdb
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\Logic\obj\Debug\netcoreapp3.1\Logic.genruntimeconfig.cache
