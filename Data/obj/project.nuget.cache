@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/+pDrIVWr38USj/xDCy/FBOJocl9a9FLJ9pOl6BSuS9hvEv995z0FNypFqwz42961AKV/2vCIgrq79BRxRZEQ==",
+  "success": false,
+  "projectFilePath": "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joost\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Joost\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Model is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project Model supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Model",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
