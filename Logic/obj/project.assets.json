@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "DataAccesLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccesLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccesLayer.dll": {}
+        }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DataAccesLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataAccesLayer/DataAccesLayer.csproj",
+      "msbuildProject": "../DataAccesLayer/DataAccesLayer.csproj"
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../GCControllerShopModels/Model.csproj",
+      "msbuildProject": "../GCControllerShopModels/Model.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "DataAccesLayer >= 1.0.0",
+      "Model >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Joost\\.nuget\\packages\\": {},
@@ -42,7 +80,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\DataAccesLayer\\DataAccesLayer.csproj": {
+              "projectPath": "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\DataAccesLayer\\DataAccesLayer.csproj"
+            },
+            "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\GCControllerShopModels\\Model.csproj": {
+              "projectPath": "E:\\ict\\Schoolwerk\\Jaar 1 semester 2 4.0o\\GCcontrollerShop\\GCcontrollerShop\\GCControllerShopModels\\Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
