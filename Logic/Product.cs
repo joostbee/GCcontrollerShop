@@ -29,7 +29,7 @@ namespace Logic
         {
             ProductView productView = new ProductView();
             productView.Description = productDTO.Description;
-            productView.Price = productDTO.Price;
+            productView.Price = productDTO.Price.ToString();
             productView.ProductName = productDTO.ProductName;
 
             return productView;

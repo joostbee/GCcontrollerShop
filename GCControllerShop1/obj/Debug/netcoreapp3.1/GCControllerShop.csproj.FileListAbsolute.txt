@@ -222,3 +222,5 @@ E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\GCcontrollerShop\GCCon
 E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\GCcontrollerShop\GCControllerShop1\obj\Debug\netcoreapp3.1\GCControllerShop.dll
 E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\GCcontrollerShop\GCControllerShop1\obj\Debug\netcoreapp3.1\GCControllerShop.pdb
 E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\GCcontrollerShop\GCControllerShop1\obj\Debug\netcoreapp3.1\GCControllerShop.genruntimeconfig.cache
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\GCcontrollerShop\GCControllerShop1\obj\Debug\netcoreapp3.1\Razor\Views\ProductList\_PartialProduct.cshtml.g.cs
+E:\ict\Schoolwerk\Jaar 1 semester 2 4.0o\GCcontrollerShop\GCcontrollerShop\GCControllerShop1\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetails\Index.cshtml.g.cs
