@@ -9,13 +9,13 @@ namespace GCControllerShop.Controllers
 {
     public class ProductListController : Controller
     {
+        public ProductListView productList = new ProductListView("test");
+
         public IActionResult Index()
         {
-            ProductListView model;
-            // model = new CleaningView();
-
-            model = new ProductListView("test");
-            return View(model);
+            return View(productList);
         }
+
     }
+
 }
