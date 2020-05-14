@@ -10,7 +10,10 @@ namespace Logic
     {
         private IDataProduct iDataProduct;
 
-
+        public Product()
+        {
+            this.iDataProduct = new DataAccesLayer.Product();
+        }
         //productlistview is tijdelijke oplossing, uiteindelijk naar list van productviews
         public ProductListView GetAllProducts()
         {

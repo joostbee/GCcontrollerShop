@@ -16,7 +16,7 @@ namespace DataAccesLayer
 
         public ConnectionClass()
         {
-            Con = new MySqlConnection("");
+            Con = new MySqlConnection("Server=studmysql01.fhict.local;Uid=dbi368029;Database=dbi368029;Pwd=Tetdrubbef7");
         }
     }
 }
