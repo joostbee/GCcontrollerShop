@@ -10,7 +10,7 @@ namespace Model.ViewModels
 
         public ProductListView()
         {
-
+            ProductList = new List<ProductView>();
         }
 
         /*

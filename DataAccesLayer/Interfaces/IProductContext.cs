@@ -5,7 +5,7 @@ using Model.DataTransferObjects;
 
 namespace DataAccesLayer.Interfaces
 {
-    public interface IDataProduct
+    public interface IProductContext
     {
         public List<ProductDTO> GetProductList();
 

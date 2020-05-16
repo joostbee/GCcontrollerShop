@@ -6,13 +6,13 @@ using DataAccesLayer.Interfaces;
 
 namespace Logic
 {
-    public class Product
+    public class ProductLogic
     {
-        private IDataProduct iDataProduct;
+        private IProductContext iDataProduct;
 
-        public Product()
+        public ProductLogic()
         {
-            this.iDataProduct = new DataAccesLayer.Product();
+            this.iDataProduct = new DataAccesLayer.ProductContext();
         }
         //productlistview is tijdelijke oplossing, uiteindelijk naar list van productviews
         public ProductListView GetAllProducts()
@@ -20,9 +20,12 @@ namespace Logic
             ProductListView productList = new ProductListView();
             List<ProductDTO> allProducts = iDataProduct.GetProductList();
 
-            foreach(ProductDTO product in allProducts)
+            if (allProducts.Count > 0)
             {
-                productList.ProductList.Add(TransferDTOtoViewModel(product));
+                foreach (ProductDTO product in allProducts)
+                {
+                    productList.ProductList.Add(TransferDTOtoViewModel(product));
+                }
             }
 
             return productList;

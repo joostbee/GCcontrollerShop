@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCControllerShop", "GCContr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "GCControllerShopModels\Model.csproj", "{37DF09FC-5A7A-458A-9E59-C4544A156FD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccesLayer", "DataAccesLayer\DataAccesLayer.csproj", "{5E4AC04E-8D4F-4419-8922-57F0ED21B36B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccesLayer", "DataAccesLayer\DataAccesLayer.csproj", "{5E4AC04E-8D4F-4419-8922-57F0ED21B36B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{554A5048-5AF2-487E-B0C8-B342B70D7E1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "Logic\Logic.csproj", "{554A5048-5AF2-487E-B0C8-B342B70D7E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAlInterfaces", "DAlInterfaces\DAlInterfaces.csproj", "{4282EE50-0C5A-4B1C-B41B-C36DD83F78AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{554A5048-5AF2-487E-B0C8-B342B70D7E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{554A5048-5AF2-487E-B0C8-B342B70D7E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{554A5048-5AF2-487E-B0C8-B342B70D7E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4282EE50-0C5A-4B1C-B41B-C36DD83F78AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4282EE50-0C5A-4B1C-B41B-C36DD83F78AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4282EE50-0C5A-4B1C-B41B-C36DD83F78AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4282EE50-0C5A-4B1C-B41B-C36DD83F78AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

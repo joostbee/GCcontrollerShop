@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GCControllerShopModels\Model.csproj" />
+    <ProjectReference Include="..\Logic\Logic.csproj" />
   </ItemGroup>
 
 </Project>
